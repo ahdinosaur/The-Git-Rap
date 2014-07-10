@@ -16,6 +16,10 @@ git add them files and then we git retarded
 got no no idea what what what is in store
 just a touch that file dot-git-ignore
 
+( dont forget .DS_Store in your gitignore )
+( dont forget .DS_Store in your gitignore )
+thats only if you got mac
+
 so, now we taking the tour
 got files added, don't need no more
 yo this is too legit to quit
@@ -35,6 +39,13 @@ octocat is the cutest
 im a github boss title unrefuted
 follow ahdinosaur right now
 
+ohh hrmm is that a remote we have
+i wont git merge your branch if the code is bad
+your pull request has no tests and you know thats sad
+i got continuous git integration bro, you mad?
+even marak, could not deny the work flow...
+git is a power tool ready to put in work...
+
 mein, this is the git rap
 i am your git teacher
 and you could get slapped
@@ -42,6 +53,33 @@ man, you better check yourself
 man, is the tool to help you help yourself
 man, then name the tool before you wreck yourself
 run man git to get knowledge and wealth
+
+so git hubbers just keep iterating
+git tag all them versions keep the changelog stating
+a brief description of things dun change
+always using semantic versioning raaaaanges
+its not dangerous
+internet strangers
+open-source bangers
+coding in hangers
+pull request slangers
+that you dont wanna anger 
+drink git kool-aide its a powerful potion
+
+zomg bro that commit its so sick
+just allow me to do git cherry-pick
+
+because its too legit to quit
+with the git cherry pick
+we do it like this
+
+head in the cloud thinking about workflow
+rebase when git pull or you will get hurt yo
+so pop that stash like a collared shirt bro
+grammers dont go into interactive mode
+squash my commit and i will explode
+if you regress my feature
+i'll unleash the hypnotoad
 
 so, back to the lesson at hand
 git status to determine to the plan
