@@ -82,7 +82,7 @@ if you regress my feature
 i'll unleash the hypnotoad
 
 so, back to the lesson at hand
-git status to determine to the plan
+git status to determine the plan
 git diff color to see where i am
 i get with git every day i can
 this is the git rap and i am the git man
