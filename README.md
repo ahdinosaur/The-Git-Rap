@@ -69,10 +69,6 @@ drink git kool-aide its a powerful potion
 zomg bro that commit its so sick
 just allow me to do git cherry-pick
 
-because its too legit to quit
-with the git cherry pick
-we do it like this
-
 head in the cloud thinking about workflow
 rebase when git pull or you will get hurt yo
 so pop that stash like a collared shirt bro
